@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="Project Sekai Chart Previewer"><strong>English Section</strong></a> | <a href=""><strong>日本語セクション</strong></a>
+  <a href="#Project Sekai Chart Previewer"><strong>English Section</strong></a> | <a href="#プロセカ譜面プリビュー"><strong>日本語セクション</strong></a>
 </p>
 
 # Project Sekai Chart Previewer
