@@ -1,5 +1,8 @@
-# sekai-mmw-preview-web
+<p align="center">
+  <a href="Project Sekai Chart Previewer"><strong>English Section</strong></a> | <a href=""><strong>日本語セクション</strong></a>
+</p>
 
+# Project Sekai Chart Previewer
 Project SEKAI-style SUS chart previewer (Web version).
 
 ![Preview](docs/preview.jpg)
