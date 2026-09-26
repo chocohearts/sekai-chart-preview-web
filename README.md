@@ -85,7 +85,7 @@ If the source code is not in the default location, you can set the `SEKAI_SUS_TO
 SEKAI_SUS_TO_JSON_ROOT=/path/to/Sekai-SUS-Parser/SusToJsonCpp npm run build
 ```
 
-#プロセカ譜面プリビュー
+# プロセカ譜面プリビュー
 プロジェクトセカイ風のSUS譜面プレビューア（Web版）。
 
 ![プレビュー](docs/preview.jpg)
